@@ -11,6 +11,9 @@ It provides a clean and lightweight interface for:
 
 This library was developed with smart agriculture scenarios in mind, where IoT devices may be deployed in greenhouses, open fields, or remote farm environments with unstable wireless conditions.
 
+<img width="1376" height="768" alt="canvas-image-1-1775714467585" src="https://github.com/user-attachments/assets/e40a3b3c-4284-42eb-a7df-5b33e254ea23" />
+
+
 ## Why this project matters
 
 In smart farming applications, stable communication is essential for sensor data transmission, remote monitoring, alerting systems, and cloud synchronization. Standard Wi-Fi examples often connect once and assume the network remains stable. In real agricultural deployments, that assumption is not always valid.
